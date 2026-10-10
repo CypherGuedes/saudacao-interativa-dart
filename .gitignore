@@ -1,0 +1,18 @@
+# Arquivos gerados pelo Dart
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações locais
+.idea/
+.vscode/
