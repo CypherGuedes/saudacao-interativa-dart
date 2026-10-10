@@ -1,0 +1,10 @@
+name: saudacao_interativa_dart
+description: Projeto introdutório em Dart para praticar entrada e saída de dados no terminal, leitura com stdin e interpolação de strings.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.13.4
+
+dev_dependencies:
+  lints: ^6.0.0
